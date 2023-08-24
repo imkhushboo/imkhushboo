@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khushboo</h1>
 <h3 align="center">Software and Front-end developer.</h3>
 
-![Developer_image](https://github.com/imkhushboo/imkhushboo/assets/66317974/c26e898f-7cff-4037-81e4-22d30bd0fb68)
+
+
+
+![Developer_image](https://github.com/imkhushboo/imkhushboo/assets/66317974/54ae6e99-041c-4370-8479-5159b80d2bac)
 
 - 👨‍💻 All of my projects are available at [https://github.com/imkhushboo](https://github.com/imkhushboo)
 

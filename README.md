@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushboo</h1>
-<!-- <h3 align="center">Software and Front-end developer.</h3>
-<!--  <img src="https://github.com/imkhushboo/imkhushboo/assets/66317974/e499e549-7de0-4ce6-a833-6c17e0cc05a7"width="100%" height="800px"> -->
+<h3 align="center">Software and Front-end developer.</h3>
+<img src="https://github.com/imkhushboo/imkhushboo/assets/66317974/e499e549-7de0-4ce6-a833-6c17e0cc05a7"width="100%" height="800px">
 
 
 

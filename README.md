@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vkhushboo540@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/kwxwpsgnrwrb](https://www.overleaf.com/read/kwxwpsgnrwrb)
+- 📄 Know about my experiences [https://drive.google.com](https://drive.google.com/file/d/12hbWeo9MNVaf3N3uwnO4FTB25fGrDShn/view?usp=sharing)
 
 
 
